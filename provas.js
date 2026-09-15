@@ -150,6 +150,12 @@ const provas = [
     "componente": "GEOGRAFIA"
   },
   {
+    "turma": "1EFB",
+    "data": "2026-09-08",
+    "professor": "Adriana Vieira",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
     "turma": "1EMA",
     "data": "2026-04-28",
     "professor": "Elenita",
@@ -318,6 +324,12 @@ const provas = [
     "componente": "LÍNGUA INGLESA"
   },
   {
+    "turma": "1EMB",
+    "data": "2026-09-28",
+    "professor": "Diego",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
     "turma": "1EMC",
     "data": "2026-05-07",
     "professor": "Elenita",
@@ -406,6 +418,12 @@ const provas = [
     "data": "2026-08-27",
     "professor": "Débora Guaraldo",
     "componente": "LÍNGUA INGLESA"
+  },
+  {
+    "turma": "1EMC",
+    "data": "2026-09-28",
+    "professor": "Diego",
+    "componente": "EDUCAÇÃO FÍSICA"
   },
   {
     "turma": "2EFA",
@@ -900,6 +918,12 @@ const provas = [
     "componente": "LÍNGUA INGLESA"
   },
   {
+    "turma": "3EFA",
+    "data": "2026-09-10",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
     "turma": "3EFB",
     "data": "2026-06-08",
     "professor": "Kamila  Pradela",
@@ -964,6 +988,12 @@ const provas = [
     "data": "2026-08-25",
     "professor": "LUIZA ARAUJO SÁBIO",
     "componente": "LÍNGUA INGLESA"
+  },
+  {
+    "turma": "3EFB",
+    "data": "2026-09-21",
+    "professor": "Kamila Kelly Tagliaferro Pradela",
+    "componente": "CIÊNCIAS DA NATUREZA"
   },
   {
     "turma": "3EMA",
@@ -1512,6 +1542,24 @@ const provas = [
     "componente": "CIÊNCIAS DA NATUREZA"
   },
   {
+    "turma": "5EFB",
+    "data": "2026-09-23",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "5EFB",
+    "data": "2026-09-24",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "5EFB",
+    "data": "2026-09-28",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "HISTÓRIA"
+  },
+  {
     "turma": "6EFA",
     "data": "2026-06-17",
     "professor": "Amarildo Rissati",
@@ -1578,6 +1626,12 @@ const provas = [
     "componente": "EDUCAÇÃO FÍSICA"
   },
   {
+    "turma": "6EFA",
+    "data": "2026-09-30",
+    "professor": "Diego",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
     "turma": "6EFB",
     "data": "2026-06-18",
     "professor": "Amarildo Rissati",
@@ -1641,6 +1695,12 @@ const provas = [
     "turma": "6EFB",
     "data": "2026-08-26",
     "professor": "Diego Felix Martins",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "6EFB",
+    "data": "2026-09-30",
+    "professor": "Diego",
     "componente": "EDUCAÇÃO FÍSICA"
   },
   {
@@ -2250,6 +2310,12 @@ const provas = [
     "componente": "EDUCAÇÃO FÍSICA"
   },
   {
+    "turma": "9EFC",
+    "data": "2026-09-28",
+    "professor": "Diego",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
     "turma": "HORA DE CONCLUSÃO",
     "data": "2026-05-13",
     "professor": "Larissa Ribeiro Santos",
@@ -3384,6 +3450,60 @@ const provas = [
     "componente": "EDUCAÇÃO FÍSICA"
   },
   {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-31",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-31",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-08-31",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-09-04",
+    "professor": "Adriana Vieira",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-09-05",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-09-09",
+    "professor": "Diego",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-09-14",
+    "professor": "Kamila Kelly Tagliaferro Pradela",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-09-14",
+    "professor": "Diego",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-09-14",
+    "professor": "Diego",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
     "turma": "HORA DE INÍCIO",
     "data": "2026-05-13",
     "professor": "Larissa Ribeiro Santos",
@@ -4518,6 +4638,60 @@ const provas = [
     "componente": "EDUCAÇÃO FÍSICA"
   },
   {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-31",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-31",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-08-31",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-09-04",
+    "professor": "Adriana Vieira",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-09-05",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-09-09",
+    "professor": "Diego",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-09-14",
+    "professor": "Kamila Kelly Tagliaferro Pradela",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-09-14",
+    "professor": "Diego",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-09-14",
+    "professor": "Diego",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
     "turma": "ID",
     "data": "1970-01-01",
     "professor": "Larissa Ribeiro Santos",
@@ -5649,6 +5823,60 @@ const provas = [
     "turma": "ID",
     "data": "1970-01-01",
     "professor": "Diego Felix Martins",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Adriana Vieira",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Diego",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Kamila Kelly Tagliaferro Pradela",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Diego",
+    "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Diego",
     "componente": "EDUCAÇÃO FÍSICA"
   }
 ];
