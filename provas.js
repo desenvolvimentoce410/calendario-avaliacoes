@@ -156,6 +156,12 @@ const provas = [
     "componente": "LÍNGUA PORTUGUESA"
   },
   {
+    "turma": "1EFB",
+    "data": "2026-09-21",
+    "professor": "Adriana",
+    "componente": "MATEMÁTICA"
+  },
+  {
     "turma": "1EMA",
     "data": "2026-04-28",
     "professor": "Elenita",
@@ -486,6 +492,12 @@ const provas = [
     "componente": "LÍNGUA INGLESA"
   },
   {
+    "turma": "2EFA",
+    "data": "2026-10-01",
+    "professor": "Luiza Sábio",
+    "componente": "LÍNGUA INGLESA"
+  },
+  {
     "turma": "2EFB",
     "data": "2026-05-28",
     "professor": "Célia Regina dos Santos",
@@ -567,6 +579,12 @@ const provas = [
     "turma": "2EFB",
     "data": "2026-08-26",
     "professor": "LUIZA ARAUJO SÁBIO",
+    "componente": "LÍNGUA INGLESA"
+  },
+  {
+    "turma": "2EFB",
+    "data": "2026-10-01",
+    "professor": "Luiza Sábio",
     "componente": "LÍNGUA INGLESA"
   },
   {
@@ -924,6 +942,12 @@ const provas = [
     "componente": "CIÊNCIAS DA NATUREZA"
   },
   {
+    "turma": "3EFA",
+    "data": "2026-09-28",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "MATEMÁTICA"
+  },
+  {
     "turma": "3EFB",
     "data": "2026-06-08",
     "professor": "Kamila  Pradela",
@@ -994,6 +1018,12 @@ const provas = [
     "data": "2026-09-21",
     "professor": "Kamila Kelly Tagliaferro Pradela",
     "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "3EFB",
+    "data": "2026-09-28",
+    "professor": "Kamila Kelly Tagliaferro Pradela",
+    "componente": "MATEMÁTICA"
   },
   {
     "turma": "3EMA",
@@ -1416,6 +1446,30 @@ const provas = [
     "componente": "LÍNGUA INGLESA"
   },
   {
+    "turma": "5EFA",
+    "data": "2026-09-24",
+    "professor": "Mônica Sperançolo",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "5EFA",
+    "data": "2026-09-24",
+    "professor": "Mônica Sperançolo",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "5EFA",
+    "data": "2026-09-25",
+    "professor": "Mônica Sperançolo",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "5EFA",
+    "data": "2026-09-25",
+    "professor": "Mônica Sperançolo",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
     "turma": "5EFB",
     "data": "2026-05-25",
     "professor": "Larissa Ribeiro Santos",
@@ -1556,6 +1610,12 @@ const provas = [
   {
     "turma": "5EFB",
     "data": "2026-09-28",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "5EFB",
+    "data": "2026-10-19",
     "professor": "Larissa Ribeiro Santos",
     "componente": "HISTÓRIA"
   },
@@ -3504,6 +3564,60 @@ const provas = [
     "componente": "EDUCAÇÃO FÍSICA"
   },
   {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-09-18",
+    "professor": "Adriana",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-09-18",
+    "professor": "Mônica Sperançolo",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-09-18",
+    "professor": "Mônica Sperançolo",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-09-18",
+    "professor": "Mônica Sperançolo",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-09-18",
+    "professor": "Mônica Sperançolo",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-09-21",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-09-22",
+    "professor": "Kamila Kelly Tagliaferro Pradela",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-09-22",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-09-24",
+    "professor": "Luiza Sábio",
+    "componente": "LÍNGUA INGLESA"
+  },
+  {
     "turma": "HORA DE INÍCIO",
     "data": "2026-05-13",
     "professor": "Larissa Ribeiro Santos",
@@ -4692,6 +4806,60 @@ const provas = [
     "componente": "EDUCAÇÃO FÍSICA"
   },
   {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-09-18",
+    "professor": "Adriana",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-09-18",
+    "professor": "Mônica Sperançolo",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-09-18",
+    "professor": "Mônica Sperançolo",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-09-18",
+    "professor": "Mônica Sperançolo",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-09-18",
+    "professor": "Mônica Sperançolo",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-09-21",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-09-22",
+    "professor": "Kamila Kelly Tagliaferro Pradela",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-09-22",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-09-24",
+    "professor": "Luiza Sábio",
+    "componente": "LÍNGUA INGLESA"
+  },
+  {
     "turma": "ID",
     "data": "1970-01-01",
     "professor": "Larissa Ribeiro Santos",
@@ -5878,5 +6046,59 @@ const provas = [
     "data": "1970-01-01",
     "professor": "Diego",
     "componente": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Adriana",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Mônica Sperançolo",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Mônica Sperançolo",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Mônica Sperançolo",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Mônica Sperançolo",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Kamila Kelly Tagliaferro Pradela",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Luiza Sábio",
+    "componente": "LÍNGUA INGLESA"
   }
 ];
