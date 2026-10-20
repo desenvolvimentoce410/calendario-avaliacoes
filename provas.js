@@ -72,6 +72,24 @@ const provas = [
     "componente": "CIÊNCIAS DA NATUREZA"
   },
   {
+    "turma": "1EFA",
+    "data": "2026-10-07",
+    "professor": "Edelaine",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "1EFA",
+    "data": "2026-10-09",
+    "professor": "Edelaine",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "1EFA",
+    "data": "2026-10-14",
+    "professor": "Edelaine",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
     "turma": "1EFB",
     "data": "2026-06-08",
     "professor": "Adriana de Almeida Vieira",
@@ -160,6 +178,18 @@ const provas = [
     "data": "2026-09-21",
     "professor": "Adriana",
     "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "1EFB",
+    "data": "2026-10-01",
+    "professor": "Adriana Vieira",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "1EFB",
+    "data": "2026-10-09",
+    "professor": "Adriana Vieira",
+    "componente": "CIÊNCIAS DA NATUREZA"
   },
   {
     "turma": "1EMA",
@@ -493,9 +523,39 @@ const provas = [
   },
   {
     "turma": "2EFA",
+    "data": "2026-09-28",
+    "professor": "Amanda",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "2EFA",
+    "data": "2026-09-30",
+    "professor": "Amanda",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "2EFA",
     "data": "2026-10-01",
     "professor": "Luiza Sábio",
     "componente": "LÍNGUA INGLESA"
+  },
+  {
+    "turma": "2EFA",
+    "data": "2026-10-02",
+    "professor": "Amanda",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "2EFA",
+    "data": "2026-10-06",
+    "professor": "Amanda",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "2EFA",
+    "data": "2026-10-08",
+    "professor": "Amanda",
+    "componente": "MATEMÁTICA"
   },
   {
     "turma": "2EFB",
@@ -586,6 +646,30 @@ const provas = [
     "data": "2026-10-01",
     "professor": "Luiza Sábio",
     "componente": "LÍNGUA INGLESA"
+  },
+  {
+    "turma": "2EFB",
+    "data": "2026-10-05",
+    "professor": "CELIA REGINA DOS SANTOS",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "2EFB",
+    "data": "2026-10-06",
+    "professor": "CELIA REGINA DOS SANTOS",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "2EFB",
+    "data": "2026-10-07",
+    "professor": "CELIA REGINA DOS SANTOS",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "2EFB",
+    "data": "2026-10-08",
+    "professor": "CELIA REGINA DOS SANTOS",
+    "componente": "MATEMÁTICA"
   },
   {
     "turma": "2EMA",
@@ -948,6 +1032,78 @@ const provas = [
     "componente": "MATEMÁTICA"
   },
   {
+    "turma": "3EFA",
+    "data": "2026-10-08",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "3EFA",
+    "data": "2026-10-23",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "3EFA",
+    "data": "2026-10-26",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "3EFA",
+    "data": "2026-10-26",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "3EFA",
+    "data": "2026-10-27",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "3EFA",
+    "data": "2026-10-27",
+    "professor": "Luiza Araujo Sábio",
+    "componente": "LÍNGUA INGLESA"
+  },
+  {
+    "turma": "3EFA",
+    "data": "2026-10-27",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "3EFA",
+    "data": "2026-10-28",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "3EFA",
+    "data": "2026-10-28",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "3EFA",
+    "data": "2026-10-29",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "3EFA",
+    "data": "2026-10-30",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "3EFA",
+    "data": "2026-10-30",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
     "turma": "3EFB",
     "data": "2026-06-08",
     "professor": "Kamila  Pradela",
@@ -1024,6 +1180,36 @@ const provas = [
     "data": "2026-09-28",
     "professor": "Kamila Kelly Tagliaferro Pradela",
     "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "3EFB",
+    "data": "2026-10-19",
+    "professor": "Kamila Kelly Tagliaferro Pradela",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "3EFB",
+    "data": "2026-10-21",
+    "professor": "Kamila Kelly Tagliaferro Pradela",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "3EFB",
+    "data": "2026-10-23",
+    "professor": "Kamila Kelly Tagliaferro Pradela",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "3EFB",
+    "data": "2026-10-26",
+    "professor": "Kamila Kelly Tagliaferro",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "3EFB",
+    "data": "2026-10-27",
+    "professor": "Luiza Araujo Sábio",
+    "componente": "LÍNGUA INGLESA"
   },
   {
     "turma": "3EMA",
@@ -1272,6 +1458,12 @@ const provas = [
     "componente": "LÍNGUA INGLESA"
   },
   {
+    "turma": "4EFA",
+    "data": "2026-10-23",
+    "professor": "Luiza Araujo Sábio",
+    "componente": "LÍNGUA INGLESA"
+  },
+  {
     "turma": "4EFB",
     "data": "2026-06-15",
     "professor": "Liliani Pereira Gitti Cajuela",
@@ -1306,6 +1498,36 @@ const provas = [
     "data": "2026-08-27",
     "professor": "LUIZA ARAUJO SÁBIO",
     "componente": "LÍNGUA INGLESA"
+  },
+  {
+    "turma": "4EFB",
+    "data": "2026-10-19",
+    "professor": "Bruna Palmieri Viegas",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "4EFB",
+    "data": "2026-10-22",
+    "professor": "Luiza Araujo Sábio",
+    "componente": "LÍNGUA INGLESA"
+  },
+  {
+    "turma": "4EFB",
+    "data": "2026-10-22",
+    "professor": "Bruna Palmieri Viegas",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "4EFB",
+    "data": "2026-10-29",
+    "professor": "Bruna Palmieri Viegas",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "4EFB",
+    "data": "2026-10-29",
+    "professor": "Bruna Palmieri Viegas",
+    "componente": "GEOGRAFIA"
   },
   {
     "turma": "5EFA",
@@ -1470,6 +1692,24 @@ const provas = [
     "componente": "LÍNGUA PORTUGUESA"
   },
   {
+    "turma": "5EFA",
+    "data": "2026-10-08",
+    "professor": "Mônica Sperançolo",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "5EFA",
+    "data": "2026-10-23",
+    "professor": "Mônica Sperançolo",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "5EFA",
+    "data": "2026-10-26",
+    "professor": "Mônica Sperançolo",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
     "turma": "5EFB",
     "data": "2026-05-25",
     "professor": "Larissa Ribeiro Santos",
@@ -1615,9 +1855,27 @@ const provas = [
   },
   {
     "turma": "5EFB",
+    "data": "2026-10-07",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "5EFB",
     "data": "2026-10-19",
     "professor": "Larissa Ribeiro Santos",
     "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "5EFB",
+    "data": "2026-10-29",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "5EFB",
+    "data": "2026-10-30",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "LÍNGUA PORTUGUESA"
   },
   {
     "turma": "6EFA",
@@ -3618,6 +3876,246 @@ const provas = [
     "componente": "LÍNGUA INGLESA"
   },
   {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-09-27",
+    "professor": "Amanda",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-09-27",
+    "professor": "Amanda",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-09-27",
+    "professor": "Amanda",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-09-27",
+    "professor": "Amanda",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-09-27",
+    "professor": "Amanda",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-09-28",
+    "professor": "Adriana Vieira",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-09-28",
+    "professor": "Adriana Vieira",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-09-28",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-09-28",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-09-28",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-09-28",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-09-28",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-09-30",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-10-01",
+    "professor": "Kamila Kelly Tagliaferro Pradela",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-10-01",
+    "professor": "Kamila Kelly Tagliaferro Pradela",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-10-01",
+    "professor": "Kamila Kelly Tagliaferro Pradela",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-10-01",
+    "professor": "Kamila Kelly Tagliaferro",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-10-02",
+    "professor": "CELIA REGINA DOS SANTOS",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-10-02",
+    "professor": "CELIA REGINA DOS SANTOS",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-10-02",
+    "professor": "CELIA REGINA DOS SANTOS",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-10-02",
+    "professor": "CELIA REGINA DOS SANTOS",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-10-05",
+    "professor": "Mônica Sperançolo",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-10-05",
+    "professor": "Edelaine",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-10-05",
+    "professor": "Edelaine",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-10-05",
+    "professor": "Edelaine",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-10-05",
+    "professor": "Luiza Araujo Sábio",
+    "componente": "LÍNGUA INGLESA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-10-05",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-10-05",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-10-05",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-10-05",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-10-05",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-10-05",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-10-06",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-10-06",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-10-08",
+    "professor": "Bruna Palmieri Viegas",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-10-08",
+    "professor": "Bruna Palmieri Viegas",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-10-08",
+    "professor": "Bruna Palmieri Viegas",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-10-08",
+    "professor": "Bruna Palmieri Viegas",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-10-20",
+    "professor": "Mônica Sperançolo",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-10-20",
+    "professor": "Mônica Sperançolo",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
     "turma": "HORA DE INÍCIO",
     "data": "2026-05-13",
     "professor": "Larissa Ribeiro Santos",
@@ -4860,6 +5358,246 @@ const provas = [
     "componente": "LÍNGUA INGLESA"
   },
   {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-09-27",
+    "professor": "Amanda",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-09-27",
+    "professor": "Amanda",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-09-27",
+    "professor": "Amanda",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-09-27",
+    "professor": "Amanda",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-09-27",
+    "professor": "Amanda",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-09-28",
+    "professor": "Adriana Vieira",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-09-28",
+    "professor": "Adriana Vieira",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-09-28",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-09-28",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-09-28",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-09-28",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-09-28",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-09-30",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-10-01",
+    "professor": "Kamila Kelly Tagliaferro Pradela",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-10-01",
+    "professor": "Kamila Kelly Tagliaferro Pradela",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-10-01",
+    "professor": "Kamila Kelly Tagliaferro Pradela",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-10-01",
+    "professor": "Kamila Kelly Tagliaferro",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-10-02",
+    "professor": "CELIA REGINA DOS SANTOS",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-10-02",
+    "professor": "CELIA REGINA DOS SANTOS",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-10-02",
+    "professor": "CELIA REGINA DOS SANTOS",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-10-02",
+    "professor": "CELIA REGINA DOS SANTOS",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-10-05",
+    "professor": "Mônica Sperançolo",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-10-05",
+    "professor": "Edelaine",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-10-05",
+    "professor": "Edelaine",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-10-05",
+    "professor": "Edelaine",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-10-05",
+    "professor": "Luiza Araujo Sábio",
+    "componente": "LÍNGUA INGLESA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-10-05",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-10-05",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-10-05",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-10-05",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-10-05",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-10-05",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-10-06",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-10-06",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-10-08",
+    "professor": "Bruna Palmieri Viegas",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-10-08",
+    "professor": "Bruna Palmieri Viegas",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-10-08",
+    "professor": "Bruna Palmieri Viegas",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-10-08",
+    "professor": "Bruna Palmieri Viegas",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-10-20",
+    "professor": "Mônica Sperançolo",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-10-20",
+    "professor": "Mônica Sperançolo",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
     "turma": "ID",
     "data": "1970-01-01",
     "professor": "Larissa Ribeiro Santos",
@@ -6100,5 +6838,245 @@ const provas = [
     "data": "1970-01-01",
     "professor": "Luiza Sábio",
     "componente": "LÍNGUA INGLESA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Amanda",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Amanda",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Amanda",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Amanda",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Amanda",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Adriana Vieira",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Adriana Vieira",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Kamila Kelly Tagliaferro Pradela",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Kamila Kelly Tagliaferro Pradela",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Kamila Kelly Tagliaferro Pradela",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Kamila Kelly Tagliaferro",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "CELIA REGINA DOS SANTOS",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "CELIA REGINA DOS SANTOS",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "CELIA REGINA DOS SANTOS",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "CELIA REGINA DOS SANTOS",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Mônica Sperançolo",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Edelaine",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Edelaine",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Edelaine",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Luiza Araujo Sábio",
+    "componente": "LÍNGUA INGLESA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Annie de Fátima Martins Morelli",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Larissa Ribeiro Santos",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Bruna Palmieri Viegas",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Bruna Palmieri Viegas",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Bruna Palmieri Viegas",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Bruna Palmieri Viegas",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Mônica Sperançolo",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Mônica Sperançolo",
+    "componente": "LÍNGUA PORTUGUESA"
   }
 ];
