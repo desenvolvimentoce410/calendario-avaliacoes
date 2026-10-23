@@ -90,6 +90,12 @@ const provas = [
     "componente": "CIÊNCIAS DA NATUREZA"
   },
   {
+    "turma": "1EFA",
+    "data": "2026-10-26",
+    "professor": "Maria de Ribamar C P Campelo",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
     "turma": "1EFB",
     "data": "2026-06-08",
     "professor": "Adriana de Almeida Vieira",
@@ -1464,6 +1470,30 @@ const provas = [
     "componente": "LÍNGUA INGLESA"
   },
   {
+    "turma": "4EFA",
+    "data": "2026-10-26",
+    "professor": "Maria de Ribamar C P Campelo",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "4EFA",
+    "data": "2026-10-26",
+    "professor": "Maria de Ribamar C P Campelo",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "4EFA",
+    "data": "2026-10-27",
+    "professor": "Maria de Ribamar C P Campelo",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "4EFA",
+    "data": "2026-10-29",
+    "professor": "Maria de Ribamar C P Campelo",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
     "turma": "4EFB",
     "data": "2026-06-15",
     "professor": "Liliani Pereira Gitti Cajuela",
@@ -1515,6 +1545,12 @@ const provas = [
     "turma": "4EFB",
     "data": "2026-10-22",
     "professor": "Bruna Palmieri Viegas",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "4EFB",
+    "data": "2026-10-28",
+    "professor": "Maria de Ribamar C P Campelo",
     "componente": "MATEMÁTICA"
   },
   {
@@ -4116,6 +4152,36 @@ const provas = [
     "componente": "LÍNGUA PORTUGUESA"
   },
   {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-10-21",
+    "professor": "Maria de Ribamar C P Campelo",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-10-21",
+    "professor": "Maria de Ribamar C P Campelo",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-10-21",
+    "professor": "Maria de Ribamar C P Campelo",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-10-21",
+    "professor": "Maria de Ribamar C P Campelo",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-10-21",
+    "professor": "Maria de Ribamar C P Campelo",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
     "turma": "HORA DE INÍCIO",
     "data": "2026-05-13",
     "professor": "Larissa Ribeiro Santos",
@@ -5598,6 +5664,36 @@ const provas = [
     "componente": "LÍNGUA PORTUGUESA"
   },
   {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-10-21",
+    "professor": "Maria de Ribamar C P Campelo",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-10-21",
+    "professor": "Maria de Ribamar C P Campelo",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-10-21",
+    "professor": "Maria de Ribamar C P Campelo",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-10-21",
+    "professor": "Maria de Ribamar C P Campelo",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-10-21",
+    "professor": "Maria de Ribamar C P Campelo",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
     "turma": "ID",
     "data": "1970-01-01",
     "professor": "Larissa Ribeiro Santos",
@@ -7077,6 +7173,36 @@ const provas = [
     "turma": "ID",
     "data": "1970-01-01",
     "professor": "Mônica Sperançolo",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Maria de Ribamar C P Campelo",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Maria de Ribamar C P Campelo",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Maria de Ribamar C P Campelo",
+    "componente": "HISTÓRIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Maria de Ribamar C P Campelo",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Maria de Ribamar C P Campelo",
     "componente": "LÍNGUA PORTUGUESA"
   }
 ];
