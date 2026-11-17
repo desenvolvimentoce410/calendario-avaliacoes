@@ -96,6 +96,18 @@ const provas = [
     "componente": "CIÊNCIAS DA NATUREZA"
   },
   {
+    "turma": "1EFA",
+    "data": "2026-11-17",
+    "professor": "Danielle Semedo",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "1EFA",
+    "data": "2026-11-18",
+    "professor": "Danielle Semedo",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
     "turma": "1EFB",
     "data": "2026-06-08",
     "professor": "Adriana de Almeida Vieira",
@@ -194,6 +206,24 @@ const provas = [
   {
     "turma": "1EFB",
     "data": "2026-10-09",
+    "professor": "Adriana Vieira",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
+    "turma": "1EFB",
+    "data": "2026-11-13",
+    "professor": "Adriana Vieira",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "1EFB",
+    "data": "2026-11-19",
+    "professor": "Adriana Vieira",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "1EFB",
+    "data": "2026-11-20",
     "professor": "Adriana Vieira",
     "componente": "CIÊNCIAS DA NATUREZA"
   },
@@ -1216,6 +1246,24 @@ const provas = [
     "data": "2026-10-27",
     "professor": "Luiza Araujo Sábio",
     "componente": "LÍNGUA INGLESA"
+  },
+  {
+    "turma": "3EFB",
+    "data": "2026-11-09",
+    "professor": "Kamila Kelly Tagliaferro Pradela",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "3EFB",
+    "data": "2026-11-11",
+    "professor": "Kamila Kelly Tagliaferro Pradela",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "3EFB",
+    "data": "2026-11-12",
+    "professor": "Kamila Kelly Tagliaferro Pradela",
+    "componente": "MATEMÁTICA"
   },
   {
     "turma": "3EMA",
@@ -4182,6 +4230,54 @@ const provas = [
     "componente": "LÍNGUA PORTUGUESA"
   },
   {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-11-06",
+    "professor": "Kamila Kelly Tagliaferro Pradela",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-11-06",
+    "professor": "Kamila Kelly Tagliaferro Pradela",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-11-06",
+    "professor": "Kamila Kelly Tagliaferro Pradela",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-11-09",
+    "professor": "Danielle Semedo",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-11-09",
+    "professor": "Danielle Semedo",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-11-09",
+    "professor": "Adriana Vieira",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-11-09",
+    "professor": "Adriana Vieira",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE CONCLUSÃO",
+    "data": "2026-11-09",
+    "professor": "Adriana Vieira",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
     "turma": "HORA DE INÍCIO",
     "data": "2026-05-13",
     "professor": "Larissa Ribeiro Santos",
@@ -5694,6 +5790,54 @@ const provas = [
     "componente": "LÍNGUA PORTUGUESA"
   },
   {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-11-06",
+    "professor": "Kamila Kelly Tagliaferro Pradela",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-11-06",
+    "professor": "Kamila Kelly Tagliaferro Pradela",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-11-06",
+    "professor": "Kamila Kelly Tagliaferro Pradela",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-11-09",
+    "professor": "Danielle Semedo",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-11-09",
+    "professor": "Danielle Semedo",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-11-09",
+    "professor": "Adriana Vieira",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-11-09",
+    "professor": "Adriana Vieira",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "HORA DE INÍCIO",
+    "data": "2026-11-09",
+    "professor": "Adriana Vieira",
+    "componente": "CIÊNCIAS DA NATUREZA"
+  },
+  {
     "turma": "ID",
     "data": "1970-01-01",
     "professor": "Larissa Ribeiro Santos",
@@ -7204,5 +7348,53 @@ const provas = [
     "data": "1970-01-01",
     "professor": "Maria de Ribamar C P Campelo",
     "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Kamila Kelly Tagliaferro Pradela",
+    "componente": "GEOGRAFIA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Kamila Kelly Tagliaferro Pradela",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Kamila Kelly Tagliaferro Pradela",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Danielle Semedo",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Danielle Semedo",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Adriana Vieira",
+    "componente": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Adriana Vieira",
+    "componente": "MATEMÁTICA"
+  },
+  {
+    "turma": "ID",
+    "data": "1970-01-01",
+    "professor": "Adriana Vieira",
+    "componente": "CIÊNCIAS DA NATUREZA"
   }
 ];
